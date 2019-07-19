@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>faceclassifier.xml</file>
+        <file>cfg_editor.qml</file>
+    </qresource>
+</RCC>
